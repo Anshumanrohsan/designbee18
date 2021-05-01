@@ -295,7 +295,7 @@ textarea { height: 168px; }
 
 /* preloader */
 body::-webkit-scrollbar {
-	width: 0.25rem;
+	width: 0.5rem;
   }
   
   body::-webkit-scrollbar-track {
@@ -311,7 +311,7 @@ body::-webkit-scrollbar {
   }
   
   #home-body {
-	animation: fadeInAnimation ease-out 3.50s;
+	animation: fadeInAnimation ease-out 1.25s;
 	animation-iteration-count: 1;
 	animation-fill-mode: forwards;
   }
